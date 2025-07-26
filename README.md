@@ -1,5 +1,5 @@
 # Minimalistic_ui
-A minimalistic UI with ai agent
+## A minimalistic UI with ai agent
 ### This project is a simple AI agent that takes natural language instructions from the user (like “Open Google and search for YouTube”) and automatically performs them in a browser using Python and Selenium, with help from Gemini 1.5 Flash for converting natural language into executable Python code.
 
 ###  Key Features
